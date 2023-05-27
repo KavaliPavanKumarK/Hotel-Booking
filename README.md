@@ -1,6 +1,6 @@
 ## Pavan Hotels and Resorts
 Azure Microsoft Internship Project
-- Project Link: 
+- Project Link: https://brave-moss-085cc3500.3.azurestaticapps.net
 - Demo Video Link: 
 
 ## Features and Functionalities:-
