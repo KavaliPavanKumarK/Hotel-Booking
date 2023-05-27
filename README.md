@@ -9,7 +9,7 @@ Azure Microsoft Internship Project
 - User can know about health information through this website.
 - Has many graphical and visual innovative effects.
 - Included the feedback Survey form to increase the scope of improvement.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- Has collection of many web pages including Home, About, Reservation, Gallary,Contact and Reviews related information etc.
 ## Problem Statement
 An Pavan Hotels and Resorts wants to build a sample Front End prototype website for their business as the online Hotels and Resorts Booking industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website customers can select the best hotels and resorts available near by them from Online with low cost .To build a whole website we have chosen Azure Cloud Platform. Build a website that have: Home, About, Reservation, Gallary,Contact,Reviews along with Azure Bot Services deployed on Website for customers help.
 ## Problem Description
