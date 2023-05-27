@@ -18,12 +18,22 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 - Azure Health Services
 - Static Web Apps
 ## Home
+![1](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/c2a685ef-aa9b-41b5-a9a8-e311d209e6cf)
 ## About
+![2](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/c5726a51-d279-44c1-984b-dabae009c4d9)
+![3](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/03620171-8cc6-4b73-a181-8769849e8164)
+![4](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/d9254a78-bfa6-4c84-b467-1785023ce68c)
 ## Reservation
+![5](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/9bf61add-13bb-446c-87a7-0ac68ac4f02e)
 ## Gallary
+![6](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/47c0424f-9419-4494-abd4-b63c282c4c58)
 ## Contact
+![7](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/1a675506-8103-4852-92b8-bc065d86f2a5)
 ## Reviews
+![8](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/d5f616b6-65cb-4abf-a8cd-ba7a5b40666b)
 ## Azure Bot Services
+![9](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/e4274e67-98e3-4658-9998-54f05f18125f)
+![10](https://github.com/KavaliPavanKumarK/Hotel-Booking/assets/127026180/b2d8e91d-88cb-4d7b-95df-23c29a5955c3)
 ## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
