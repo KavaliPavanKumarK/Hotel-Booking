@@ -1,7 +1,7 @@
 ## Pavan Hotels and Resorts
 Azure Microsoft Internship Project
-- Project Link: https://kind-cliff-0bf055600.2.azurestaticapps.net
-- Demo Video Link: https://youtu.be/Y_WOS9j9RTY 
+- Project Link: 
+- Demo Video Link: 
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.
@@ -18,18 +18,12 @@ The Main Idea of the Project is to build an sample prototype E-Commerce Website 
 - Azure Health Services
 - Static Web Apps
 ## Home
-![1](https://user-images.githubusercontent.com/119150985/209977611-f07c4d0f-da63-4d01-850b-4acfeb3cfde5.jpg)
 ## About
-![2](https://user-images.githubusercontent.com/119150985/209977618-f1d6e33e-f635-4ee9-aedd-994f220e6298.jpg)
-## Product Details
-![3](https://user-images.githubusercontent.com/119150985/209977621-e56f4cb1-fd4c-4477-9f61-d7c02599d453.jpg)
-## Reviews
-![4](https://user-images.githubusercontent.com/119150985/209977626-923b3d3b-4db9-4e3c-8be3-7c84f3ff8c18.jpg)
+## Reservation
+## Gallary
 ## Contact
-![5](https://user-images.githubusercontent.com/119150985/209977629-d02395d9-9649-47cc-966c-537e6cfe35ab.jpg)
-![6](https://user-images.githubusercontent.com/119150985/209977633-6d84f418-0bb9-4c9a-a570-4b28abe06b42.jpg)
+## Reviews
 ## Azure Bot Services
-![7](https://user-images.githubusercontent.com/119150985/209977635-cab1772c-e334-4bc4-9bcb-79db4dbf3b38.jpg)
 ## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
